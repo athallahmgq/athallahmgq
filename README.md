@@ -1,5 +1,5 @@
 <h1 align="center">Bonjour Coders👋, I'm Athallah Muhammad Ghiyats Qintara</h1>
-<h3 align="center">Mjit Course Founder, Software Developer, Engineer and Data Analyst</h3>
+<h3 align="center">MJIT Course Founder, Software Developer, Engineer and Data Analyst</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=athallahmgq&label=Profile%20views&color=0e75b6&style=flat" alt="athallahmgq" /> </p>
 
@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **HTML, CSS, javaScript and Flutter**
 
-- 👯 I’m looking to collaborate on **Mjit Course**
+- 👯 I’m looking to collaborate on **MJIT Course**
 
 - 🤝 I’m looking for help with **javaScript Databases, Kotlin and Python**
 
