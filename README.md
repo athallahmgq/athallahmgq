@@ -1,4 +1,4 @@
-<h1 align="center">Bonjour Coders👋, I'm Athallah Muhammad Ghiyats Qintara</h1>
+<h1 align="center">Bonjour👋, I'm Athallah Muhammad Ghiyats Qinthara</h1>
 <h3 align="center">MJIT Course Associate Founder, Web Developer, Software Developer, Engineer and Data Analyst</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=athallahmgq&label=Profile%20views&color=0e75b6&style=flat" alt="athallahmgq" /> </p>
